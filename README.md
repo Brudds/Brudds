@@ -12,4 +12,3 @@ Tecnologias que estou estudando:
 
 ✉ Para entrar em contato, envie email para brudds@outlook.com
 
-![youtube](https://img.shields.io/youtube/views/66XbXRgielo?style=social)
