@@ -9,6 +9,7 @@ Tecnologias que estou estudando:
 * Github 📡
 * Markdown 📑
 * Linkedin 🧷
+* Python 🐍
 
 ✉ Para entrar em contato, envie email para brudds@outlook.com
 
